@@ -1,0 +1,22 @@
+{
+  "name": "introduction-typescript",
+  "version": "1.0.0",
+  "description": "Introduction to TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fer22ay/Introduction-TypeScript.git"
+  },
+  "author": "Fernando Ambrosio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fer22ay/Introduction-TypeScript/issues"
+  },
+  "homepage": "https://github.com/fer22ay/Introduction-TypeScript#readme",
+  "devDependencies": {
+    "typescript": "^5.0.2"
+  }
+}
